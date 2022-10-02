@@ -5,8 +5,13 @@
    :hidden:
    :maxdepth: 1
 
-   cli50
-   code
+   test
+
+.. toctree::
+   :caption: stuff2
+   :hidden:
+   :maxdepth: 1
+
    test
 
 .. image:: 2ep2od.jpg
