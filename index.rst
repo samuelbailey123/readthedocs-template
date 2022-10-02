@@ -5,7 +5,7 @@
    :hidden:
    :maxdepth: 1
 
-   test
+   docs/test
 
 .. toctree::
    :caption: stuff2
