@@ -1,6 +1,5 @@
 .. title:: Home
 
-.. toctree::
    :caption: One
    :maxdepth: 1
 
