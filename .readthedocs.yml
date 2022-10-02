@@ -1,0 +1,12 @@
+build:
+  image: latest
+
+python:
+  install:
+    - requirements: requirements.txt
+  version: 3.7
+
+sphinx:
+  builder: dirhtml
+
+version: 2
