@@ -9,41 +9,6 @@
    Map <api/map>
 
 .. toctree::
-   :caption: Command-Line Tools
-   :hidden:
-   :maxdepth: 1
-
-   check50 <https://cs50.readthedocs.io/projects/check50/>
-   cli50
-   compare50 <https://cs50.readthedocs.io/projects/compare50/>
-   render50
-   style50
-   submit50
-
-.. toctree::
-   :caption: Docker Images
-   :hidden:
-   :maxdepth: 1
-
-   cs50/check
-   cs50/cli
-   cs50/codespace
-   cs50/ide
-   cs50/sandbox
-   cs50/server
-
-.. toctree::
-   :caption: Libraries
-   :hidden:
-   :maxdepth: 1
-   :name: libraries
-
-   check50 <https://cs50.readthedocs.io/projects/check50/>
-   compare50 <https://cs50.readthedocs.io/projects/compare50/>
-   cs50 <libraries/cs50/index>
-   lib50 <https://cs50.readthedocs.io/projects/lib50/>
-
-.. toctree::
    :caption: Style Guides
    :hidden:
    :maxdepth: 1
