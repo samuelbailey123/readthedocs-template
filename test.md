@@ -1,2 +1,2 @@
-# I AM A TEST   
-I am a test.
+# Test
+I am test
