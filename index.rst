@@ -12,7 +12,7 @@
    :hidden:
    :maxdepth: 1
 
-   test
+   docs/test
 
 .. image:: 2ep2od.jpg
   :alt: All the Docs
