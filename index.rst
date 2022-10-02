@@ -2,7 +2,6 @@
 
 .. toctree::
    :caption: One
-   :hidden:
    :maxdepth: 1
 
    Dining <docs/vault.md>
