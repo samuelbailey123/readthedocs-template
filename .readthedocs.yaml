@@ -4,7 +4,7 @@ build:
 python:
   install:
     - requirements: requirements.txt
-  version: 3.10
+  version: 3.8
 
 sphinx:
   builder: dirhtml
